@@ -9,6 +9,7 @@ public class GithubtestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GithubtestApplication.class, args);
 		System.out.println("sub1 브랜치로 push");
+		System.out.println("sub1 브랜치로 push2");
 	}
 
 }
