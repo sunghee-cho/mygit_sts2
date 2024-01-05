@@ -1,3 +1,4 @@
 # mygit_sts2
 
-collabo / branch protection test
+collabo / branch protection test1
+collabo / branch protection test2
